@@ -1,0 +1,14 @@
+test5,12000
+Yey Test,7400
+test 31,6400
+test3,5000
+Test32),4600
+est 22,4400
+test1,2000
+test2,1000
+test4,300
+text6,0
+test7,0
+test17,0
+test78,0
+yes test,0
